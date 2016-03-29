@@ -1,6 +1,6 @@
 package jurnall;
 import java.util.Scanner;
-
+/* sudah teredit */
 public class no1 {
     @SuppressWarnings("resource")
     public static void main(String args[]) {
